@@ -2,7 +2,7 @@
 #
 # PyPI server and packaging/testing/release tool
 
-FROM ubuntu:xenial-20160818
+FROM ubuntu:xenial-20160923.1
 MAINTAINER Jirayut Nimsaeng <w [at] winginfotech.net>
 
 # 1) Install curl and python
